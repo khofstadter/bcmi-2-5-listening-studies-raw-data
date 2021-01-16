@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 800" style="enable-background:new 0 0 1000 800;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#BF6969;}
+	.st1{fill:#69BFBF;}
+	.st2{fill:none;stroke:#CCCCCC;}
+	.st3{font-family:'ArialMT';}
+	.st4{font-size:10px;}
+</style>
+<g id="swarm-1" transform="translate(25,0)">
+	<g id="circles">
+		<circle id="circle" class="st0" cx="18.8" cy="17.2" r="3"/>
+	</g>
+	<g id="labels">
+	</g>
+</g>
+<g id="swarm-2" transform="translate(25,156.6)">
+	<g>
+		<circle class="st0" cx="19" cy="-121.8" r="6"/>
+	</g>
+</g>
+<g id="swarm-3" transform="translate(25,313.2)">
+	<g>
+		<circle class="st1" cx="18.7" cy="-252.6" r="9"/>
+	</g>
+</g>
+<g id="swarm-4" transform="translate(25,469.79999999999995)">
+	<g>
+		<circle class="st0" cx="19" cy="-379.3" r="12"/>
+	</g>
+</g>
+<g id="swarm-5" transform="translate(25,626.4)">
+	<g>
+		<circle class="st0" cx="19" cy="-498.4" r="15"/>
+	</g>
+</g>
+<g transform="translate(25,780)">
+	<path class="st2" d="M3.5,6V0.5h932V6"/>
+	<g transform="translate(9.851315016673524,0)">
+		<line class="st2" x1="0" y1="0" x2="0" y2="6"/>
+		<text transform="matrix(1 0 0 1 -14.4556 16.1)" class="st3 st4">Sat 15</text>
+	</g>
+	<g transform="translate(108.17663618502911,0)">
+		<line class="st2" x1="0" y1="0" x2="0" y2="6"/>
+		<text transform="matrix(1 0 0 1 -15.5664 16.1)" class="st3 st4">Feb 16</text>
+	</g>
+	<g transform="translate(206.5019573533847,0)">
+		<line class="st2" x1="0" y1="0" x2="0" y2="6"/>
+		<text transform="matrix(1 0 0 1 -16.6772 16.1)" class="st3 st4">Mon 17</text>
+	</g>
+	<g transform="translate(304.8272785217403,0)">
+		<line class="st2" x1="0" y1="0" x2="0" y2="6"/>
+		<text transform="matrix(1 0 0 1 -15.3809 16.1)" class="st3 st4">Tue 18</text>
+	</g>
+	<g transform="translate(403.1525996900959,0)">
+		<line class="st2" x1="0" y1="0" x2="0" y2="6"/>
+		<text transform="matrix(1 0 0 1 -17.1411 16.1)" class="st3 st4">Wed 19</text>
+	</g>
+	<g transform="translate(501.4779208584515,0)">
+		<line class="st2" x1="0" y1="0" x2="0" y2="6"/>
+		<text transform="matrix(1 0 0 1 -15.5664 16.1)" class="st3 st4">Thu 20</text>
+	</g>
+	<g transform="translate(599.8032420268071,0)">
+		<line class="st2" x1="0" y1="0" x2="0" y2="6"/>
+		<text transform="matrix(1 0 0 1 -12.7808 16.1)" class="st3 st4">Fri 21</text>
+	</g>
+	<g transform="translate(698.1285631951627,0)">
+		<line class="st2" x1="0" y1="0" x2="0" y2="6"/>
+		<text transform="matrix(1 0 0 1 -14.4556 16.1)" class="st3 st4">Sat 22</text>
+	</g>
+	<g transform="translate(796.4538843635182,0)">
+		<line class="st2" x1="0" y1="0" x2="0" y2="6"/>
+		<text transform="matrix(1 0 0 1 -15.5664 16.1)" class="st3 st4">Feb 23</text>
+	</g>
+	<g transform="translate(894.7792055318738,0)">
+		<line class="st2" x1="0" y1="0" x2="0" y2="6"/>
+		<text transform="matrix(1 0 0 1 -16.6772 16.1)" class="st3 st4">Mon 24</text>
+	</g>
+</g>
+</svg>
