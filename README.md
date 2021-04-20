@@ -1,8 +1,6 @@
-# bcmi-2-5-listening-studies-raw-data
+# Appendix for Listening Studies Testing Auditory Entrainment Project
 
-This repository contains information for my two listening studies testing auditory entrainment in my doctoral research.
-
-
+This repository contains information for my two Listening Studies Testing Auditory Entrainment in my doctoral research.
 
 This folder contains: 
 - `\listening-study-01`
