@@ -1,13 +1,12 @@
 # Appendix for Listening Studies Testing Auditory Entrainment Project
-
 This repository contains information for my two Listening Studies Testing Auditory Entrainment in my doctoral research.
 
 This folder contains: 
 - `\listening-study-01`
-  -  `01-surveys` (English/Hungarian version in PDF, HTML and .rtf formats, images uses)
+  -  `01-surveys` (English/Hungarian version in PDF, HTML and .rtf formats, images)
   -  `02-call` (poster, dissemination channels)
   -  `03-responses` (anonymous responses i.e raw data in .csv format, drawings)
-  -  `04-analysis` (survey monkey automated analysis and tests with rawgraphs.io)
+  -  `04-analysis` (anonymised Survey Monkey automated analysis and tests with Rawgraphs.io)
 - `\listening-study-02` (folders as in study-02, only English version, no analysis folder)
 
 More information about the study:
