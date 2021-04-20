@@ -19,3 +19,5 @@ More information about the research:
 - [https://bcmi.khofstadter.info/](https://bcmi.khofstadter.info/)
 
 The raw survey data is publicly available (open access) firstly as it was a requirement by one of the Facebook groups where the call was advertised, and secondly to provide data for researchers interested in meditation, visualisation, shamanism and auditory entrainment.
+
+The studies are currently analysed and planned to be published in a relevant journal.
