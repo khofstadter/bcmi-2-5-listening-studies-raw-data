@@ -1,4 +1,5 @@
 # Appendix for Listening Studies Testing Auditory Entrainment Project
+
 This repository contains information for my two Listening Studies Testing Auditory Entrainment in my doctoral research.
 
 This folder contains: 
@@ -18,3 +19,7 @@ More information about the research:
 The raw survey data is publicly available (open access) firstly as it was a requirement by one of the Facebook groups where the call was advertised, and secondly to provide data for researchers interested in meditation, visualisation, shamanism and auditory entrainment.
 
 The studies are currently analysed and planned to be published in a relevant journal.
+
+## log: 
+
+15/06/21 added listening study 03 draft
