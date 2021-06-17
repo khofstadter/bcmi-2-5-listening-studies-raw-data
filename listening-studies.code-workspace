@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../../../.vscode/extensions/yzane.markdown-pdf-1.4.4"
 		}
 	],
 	"settings": {
