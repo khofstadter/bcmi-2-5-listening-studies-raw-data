@@ -11,10 +11,10 @@ This folder contains:
 - `\listening-study-02` (folders as in study-02, only English version, no analysis folder)
 
 More information about the study:
-- [https://bcmi.khofstadter.info/listening-studies-analysis/](https://bcmi.khofstadter.info/listening-studies-analysis/)
+- [https://bcmi.khofstadter.com/listening-studies-analysis/](https://bcmi.khofstadter.com/listening-studies-analysis/)
 
 More information about the research: 
-- [https://bcmi.khofstadter.info/](https://bcmi.khofstadter.info/)
+- [https://bcmi.khofstadter.com/](https://bcmi.khofstadter.com/)
 
 The raw survey data is publicly available (open access) firstly as it was a requirement by one of the Facebook groups where the call was advertised, and secondly to provide data for researchers interested in meditation, visualisation, shamanism and auditory entrainment.
 
